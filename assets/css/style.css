@@ -16,3 +16,30 @@
     background-position: center;
     background-repeat: no-repeat;
   }
+
+  .menuzord a {
+    transition: all .25s ease-in-out;
+}
+.menuzord-brand {
+    color: rgba(255, 255, 255, 0.8);
+    padding-left: 10px;
+}
+.menuzord-brand {
+    margin: 12px 30px 0 0;
+    float: left;
+    color: #666;
+    text-decoration: none;
+    font-size: 31px;
+    line-height: 1.3;
+    cursor: pointer;
+}
+.menuzord, .menuzord * {
+    box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    -webkit-box-sizing: border-box;
+}
+
+.actually_h1 {
+    font-weight: 600;
+    font-size: 36px;
+}
