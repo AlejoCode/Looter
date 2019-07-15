@@ -43,3 +43,8 @@
     font-weight: 600;
     font-size: 36px;
 }
+
+.enlace{
+    background: #ff7b00 !important;
+    border-color: #ff7b00 !important
+}
