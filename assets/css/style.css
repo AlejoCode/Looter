@@ -1,6 +1,6 @@
 .gradient_text {
-    background: linear-gradient(to right, #de0030, #ff7b00);
-    /* background: linear-gradient(to right,#FF164D,#ff7d27); */
+    /* background: linear-gradient(to right, #de0030, #ff7b00); */
+    background: linear-gradient(to right,#FF164D,#ff7d27);
     -webkit-background-clip: text;
     color: transparent;
     font-family: 'The Bold Font', 'Bold Web', sans-serif;
@@ -8,6 +8,11 @@
     font-style: normal;
 }
 
-.bgBlack {
-    background-color: black !important;
-}
+.masthead {
+    height: 100vh;
+    min-height: 500px;
+    background-image: url('https://source.unsplash.com/BtbjCFUvBXs/1920x1080');
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+  }
